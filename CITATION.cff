@@ -13,7 +13,9 @@ keywords:
   - AI memory
   - quantum memory architecture
   - observer-commander
-license: MIT
-version: "0.6.0"
+version: "0.6.2"
+doi: "10.5281/zenodo.20713731"
 date-released: "2026-06-16"
-repository-code: "https://github.com/YOUR-USERNAME/associative-return-memory"
+url: "https://doi.org/10.5281/zenodo.20713731"
+license: "MIT"
+repository-code: "https://github.com/rosespearhead/associative-return-memory"
