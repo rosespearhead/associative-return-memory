@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Associative Return Memory (ARM): A Relation-Centric Memory Layer for Recomputable States"
+message: "If you use this repository, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: "Naumova"
+    given-names: "Alexandra"
+abstract: "Associative Return Memory (ARM) is a relation-centric memory architecture in which memory stores return relations rather than static states. States are recomputed from cues, relation weights, context, and an observer-selected criterion."
+keywords:
+  - associative memory
+  - quantum-inspired memory
+  - recomputable states
+  - AI memory
+  - quantum memory architecture
+  - observer-commander
+license: MIT
+version: "0.6.0"
+date-released: "2026-06-16"
+repository-code: "https://github.com/YOUR-USERNAME/associative-return-memory"
